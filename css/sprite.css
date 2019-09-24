@@ -1,0 +1,389 @@
+.icon {
+    font-size: 10px;
+}
+
+.icon:before {
+    content:' ';
+    vertical-align:middle;
+    display: inline-block;
+    background-image: url("../svg/sprite.svg");
+    background-repeat: no-repeat;
+    background-size: 52.069em 2149.7em;
+}
+
+.no-svg .icon:before {
+    background-image: url("../svg/sprite.png");
+}
+
+
+
+  .icon.icon-abacus:before {
+      background-position: 0em 0em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-auction:before {
+      background-position: 0em -51.2em;
+      width: 51.200199999999995em;
+      height: 51.200199999999995em;
+  }
+
+
+
+
+  .icon.icon-bell:before {
+      background-position: 0em -102.5em;
+      width: 51.200199999999995em;
+      height: 51.200199999999995em;
+  }
+
+
+
+
+  .icon.icon-blackboard:before {
+      background-position: 0em -153.8em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-blackboard-1:before {
+      background-position: 0em -205em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-book:before {
+      background-position: 0em -256.2em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-books:before {
+      background-position: 0em -307.4em;
+      width: 51.2001em;
+      height: 51.2001em;
+  }
+
+
+
+
+  .icon.icon-books-1:before {
+      background-position: 0em -358.7em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-briefcase:before {
+      background-position: 0em -409.9em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-diploma:before {
+      background-position: 0em -461.1em;
+      width: 51.179500000000004em;
+      height: 51.179500000000004em;
+  }
+
+
+
+
+  .icon.icon-earth-globe:before {
+      background-position: 0em -512.3em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-employee:before {
+      background-position: 0em -563.5em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-employees:before {
+      background-position: 0em -614.7em;
+      width: 51.2007em;
+      height: 51.2007em;
+  }
+
+
+
+
+  .icon.icon-exam:before {
+      background-position: 0em -666em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-exam-1:before {
+      background-position: 0em -717.2em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-handshake:before {
+      background-position: 0em -768.4em;
+      width: 51.2004em;
+      height: 51.2004em;
+  }
+
+
+
+
+  .icon.icon-hierarchical-structure:before {
+      background-position: 0em -819.7em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-ink:before {
+      background-position: 0em -870.9em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-library:before {
+      background-position: 0em -922.1em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-mortarboard:before {
+      background-position: 0em -973.3em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-open-book:before {
+      background-position: 0em -1024.5em;
+      width: 51.2004em;
+      height: 51.2004em;
+  }
+
+
+
+
+  .icon.icon-presentation:before {
+      background-position: 0em -1075.8em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-presentation-1:before {
+      background-position: 0em -1127em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-presentation-2:before {
+      background-position: 0em -1178.2em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-presentation-3:before {
+      background-position: 0em -1229.4em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-professor:before {
+      background-position: 0em -1280.6em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-pyramid:before {
+      background-position: 0em -1331.8em;
+      width: 51.200300000000006em;
+      height: 51.200300000000006em;
+  }
+
+
+
+
+  .icon.icon-report:before {
+      background-position: 0em -1383.1em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-school-material:before {
+      background-position: 0em -1434.3em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-sprite:before {
+      background-position: 0em -1485.5em;
+      width: 2.422151928176025em;
+      height: 100em;
+  }
+
+
+
+
+  .icon.icon-stats:before {
+      background-position: 0em -1585.5em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-stats-1:before {
+      background-position: 0em -1636.7em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-stats-2:before {
+      background-position: 0em -1687.9em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-stats-3:before {
+      background-position: 0em -1739.1em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-stats-4:before {
+      background-position: 0em -1790.3em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-student:before {
+      background-position: 0em -1841.5em;
+      width: 51.1996em;
+      height: 51.1996em;
+  }
+
+
+
+
+  .icon.icon-student-1:before {
+      background-position: 0em -1892.7em;
+      width: 51.2005em;
+      height: 51.2005em;
+  }
+
+
+
+
+  .icon.icon-team:before {
+      background-position: 0em -1944em;
+      width: 51.1834em;
+      height: 51.1834em;
+  }
+
+
+
+
+  .icon.icon-team-1:before {
+      background-position: 0em -1995.2em;
+      width: 52.069em;
+      height: 52.069em;
+  }
+
+
+
+
+  .icon.icon-teamwork:before {
+      background-position: 0em -2047.3em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+  .icon.icon-university:before {
+      background-position: 0em -2098.5em;
+      width: 51.2em;
+      height: 51.2em;
+  }
+
+
+
+
+
